@@ -1,7 +1,5 @@
 # AutoConfig Backup System
 
-## Overview
-
 AutoConfig Backup System is a Python-based network automation tool
 designed to automatically back up configurations from multiple Cisco
 devices.
