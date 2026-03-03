@@ -42,13 +42,6 @@ structured and reliable way.
 
 ------------------------------------------------------------------------
 
-## Project Structure
-
-AutoConfig-Backup-System/ │ ├── backup.py ├── devices.yaml ├── .env
-(optional) └── backups/
-
-------------------------------------------------------------------------
-
 ## Installation
 
 Install required dependencies:
@@ -116,6 +109,3 @@ backups/`<device_name>`{=html}/
 
 ------------------------------------------------------------------------
 
-## Author
-
-Anuj Mishra
