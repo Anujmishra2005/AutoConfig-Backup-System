@@ -1,0 +1,14 @@
+devices:
+  - name: R1
+    device_type: cisco_ios
+    host: 192.168.1.1
+    username: admin
+    password: admin123
+    secret: cisco
+
+  - name: R2
+    device_type: cisco_ios
+    host: 192.168.1.2
+    username: admin
+    password: admin123
+    secret: cisco
